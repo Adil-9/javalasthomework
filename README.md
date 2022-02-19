@@ -1,1 +1,2 @@
 # javalasthomework
+I created 2 packages first for characters(heros) and second for weapons(Weapons) that heros can use. First package consists only of characters and their attributes. Second class consist only weapons. This means I collected classes into one package that are used for same purposes, also classes that might be changed for the same reason are collected in one package. These two packages might be or might not be used together as they are not dependent on each other though they talk to each other if needed. 
